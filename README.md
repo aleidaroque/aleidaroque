@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I am a recent Computer Engineer grad from University of California Santa Cruz, class of 2024. 
+This repository contains all the projects I've worked on during my time there. 
+
+### Skills ⚙️
+- Python
+- C/C++
+- Matlab
+- Solidworks
+
+### Contact
+- 📫 How to reach me: aleidaroque@gmail.com
+- 😄 Pronouns: she/her
+
+### Employer?
+> [!IMPORTANT] 
+
 <!--
 **aleidaroque/aleidaroque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
