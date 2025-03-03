@@ -3,6 +3,10 @@
 I am a recent Computer Engineer grad from University of California Santa Cruz, class of 2024. 
 This repository contains all the projects I've worked on during my time there. 
 
+The relevant projects are found under:
+- ECE 118: Intro to Mechatronics
+- ECE167: Sensors and Sensor Technology
+
 ### Skills ⚙️
 - Python
 - C/C++
@@ -13,10 +17,12 @@ This repository contains all the projects I've worked on during my time there.
 - 📫 How to reach me: aleidaroque@gmail.com
 - 😄 Pronouns: she/her
 
+
+
+<!--
 ### Employer?
 > [!IMPORTANT] 
 
-<!--
 **aleidaroque/aleidaroque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
